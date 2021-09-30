@@ -1,0 +1,9 @@
+Path contains [Path('/home/pavankumarp/.fastai/data/oxford-iiit-pet/images'), Path('/home/pavankumarp/.fastai/data/oxford-iiit-pet/annotations')]
+Type for path is <class 'pathlib.PosixPath'>
+Total number of files are 7390
+█epoch     train_loss  valid_loss  error_rate  time    
+██0         0.139972    0.025842    0.008796    00:16     
+█epoch     train_loss  valid_loss  error_rate  time    
+██0         0.071750    0.010867    0.005413    00:20     
+█Is this a cat?: True.
+Probability it's a cat: 1.000000
